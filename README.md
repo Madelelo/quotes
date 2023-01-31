@@ -1,4 +1,7 @@
-# SItatnettside
+# Sitatnettside
 
-Lag en sitat-nettside!
-Nettsiden skal hente sitater fra en database og vise frem. Det skal være mulig å trykke på en knapp for å få nytt sitat. Legg inn sitater manuelt i en database først.
+Dette er en backend-løsning for en sitatnettside. 
+
+Nettsiden skal generere tilfeldige sitater når brukeren trykker på en knapp. 
+
+Rediger frontenden inne i frontend/index.html
